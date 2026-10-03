@@ -1,0 +1,3 @@
+s_no,error_type,username,user_id,osm_location_link,changeset_id,changeset_link,osm_object_type,osm_object_id,time_utc,country,detail,hashtag
+1,floating highway,Maurício Antonio,21571890,https://www.openstreetmap.org/#map=18/-4.267229/-41.791470,184888627,https://www.openstreetmap.org/changeset/184888627,way,335063194,2026-07-01T01:56:45Z,Brazil,way 335063194: neither endpoint connects to any other highway -- isolated from the road network,tomtom
+2,floating highway,Maurício Antonio,21571890,https://www.openstreetmap.org/#map=18/-4.267140/-41.793877,184888627,https://www.openstreetmap.org/changeset/184888627,way,375488330,2026-07-01T01:56:45Z,Brazil,way 375488330: neither endpoint connects to any other highway -- isolated from the road network,tomtom
