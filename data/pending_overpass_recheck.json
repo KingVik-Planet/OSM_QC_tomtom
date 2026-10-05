@@ -1,31 +1,7 @@
 [
   {
-    "changeset_id": 184908435,
-    "overpass_attempts": 2,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T19:44:18.784568+00:00"
-  },
-  {
-    "changeset_id": 184908420,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T19:44:19.840369+00:00"
-  },
-  {
-    "changeset_id": 184908380,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T19:44:20.849632+00:00"
-  },
-  {
-    "changeset_id": 184908375,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T19:44:21.558267+00:00"
-  },
-  {
     "changeset_id": 184908374,
-    "overpass_attempts": 1,
+    "overpass_attempts": 2,
     "meta_fetch_failures": 0,
     "first_flagged_utc": "2026-10-03T19:44:22.536376+00:00"
   },
